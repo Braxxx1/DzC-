@@ -8,7 +8,7 @@
 // bool pr = int.TryParse(a, out n); 
 // if (a.Length >= 3 && pr){ 
 //     // Console.WriteLine(Convert.ToString(n)[2]); ну можно вот так
-//     while (Convert.ToString(n).Length > 3){
+//     while (n > 999){
 //         n/=10;
 //     } 
 //     Console.WriteLine(n % 10); 
